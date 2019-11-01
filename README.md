@@ -19,5 +19,5 @@
 
 # Final Product
 <p align="middle">
-  <img src="file://localhost/Users/amandaAmanda/Desktop/VizCon/Banana_Graph_Line.html" width="40%" />
+  <"file://localhost/Users/amandaAmanda/Desktop/VizCon/Banana_Graph_Line.html" width="40%" />
 </p>

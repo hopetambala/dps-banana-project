@@ -1,2 +1,0 @@
-# Banana Graph Notes 
-

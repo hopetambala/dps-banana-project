@@ -15,9 +15,3 @@
 
 # Explanation
 
-
-
-# Final Product
-<p align="middle">
-  <"file://localhost/Users/amandaAmanda/Desktop/VizCon/Banana_Graph_Line.html" width="40%" />
-</p>
